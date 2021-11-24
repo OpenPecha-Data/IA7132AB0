@@ -1,5 +1,7 @@
 id: P000560
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1PD90122
   title: ཁྲོ་ཆུ་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 162
       base_file: v001.txt
-ebook_metadata:
-  title: ཁྲོ་ཆུ་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
-  author: ''
-  sku: P000560
-  cover: cover.jpg
-  layers:
-  - pagination
